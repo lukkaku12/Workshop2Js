@@ -1,5 +1,4 @@
 
-
 let continuarUsuario = true 
 
 const destino = prompt("Cual es su destino?");
@@ -50,3 +49,4 @@ continuarUsuario = confirm("deseas continuar editando tu planificacion?")
 
 
 
+export {presupuesto, enoughMoney};
